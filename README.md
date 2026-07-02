@@ -229,11 +229,11 @@ It motivates me to build more data analytics and dashboard projects.
 
 **Mahi Gupta**
 
-📧 Email: your-email@example.com
+📧 Email: mahigupta201020@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/mahi-gupta-33a0ab41a/
 
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: https://github.com/MahiGupta179
 
 ---
 
