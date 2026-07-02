@@ -227,7 +227,7 @@ It motivates me to build more data analytics and dashboard projects.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mahi Gupta**
 
 📧 Email: your-email@example.com
 
